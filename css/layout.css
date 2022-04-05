@@ -21,6 +21,10 @@
   flex: 20%;
 }
 
+.table{
+  gap: 50%;
+}
+
 @media (max-width: 600px) {
   .flex-container {
     flex-direction: row;
