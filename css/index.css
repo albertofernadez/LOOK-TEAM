@@ -1,3 +1,24 @@
+<<<<<<< Updated upstream
 .carousel {
   margin-right: 50px;
 }
+=======
+/*columnas de index*/
+.form{
+    display:grid;
+    grid-template-columns: 1fr 1fr;/*numero de columnas*/
+    colum-gap:1rem;/*margen entre columnas*/
+    margin: 1rem 1rem;
+    padding-top:10rem ;
+    padding-left: 15rem;
+    padding-right: 15rem;
+}
+/*contenedor para carrusel*/
+.contenedor{
+    padding-top:15rem ;
+    padding-left: 15rem;
+    padding-right: 15rem;
+
+
+}
+>>>>>>> Stashed changes
